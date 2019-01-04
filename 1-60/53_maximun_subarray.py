@@ -29,6 +29,7 @@ def maxSubArray(nums):
     return sum_max
 
 def so_so_so_brilliant():
+    ##Kadane's algorithm
     for i in range(1, len(nums)):
         if nums[i - 1] > 0:
             nums[i] += nums[i - 1]
@@ -36,8 +37,12 @@ def so_so_so_brilliant():
 #思想是：只可意会。ej,[2,-3,1,2,3,-6,5,3,-1,2]就变成了
 #[2,-1,1,3,6,0,5,8,7,9]
 #超过1%,真是无语
-
-
+"""ans = cur = None
+for x in A:
+    cur = x + max(cur, 0)
+    ans = max(ans, cur)
+return ans"""
+"""传统的最大连续子列和用动态规划求解，dp[i]表示以i为结尾的最大连续子列和，复杂度为O(n)。"""
 
 nums=[1,-1,1]
 print(maxSubArray(nums))

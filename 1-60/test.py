@@ -209,4 +209,9 @@ def tf():
     c=[1,2,3,4]
     print(c[-1])
     print(c[:-1])
-tf()
+def 关于最小值():
+    a=None
+    b=max(a,-1)
+    print(b)
+a=[1,3,5,6]
+print(a)

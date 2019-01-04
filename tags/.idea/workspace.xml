@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fe855912-04bc-49f1-914a-60efc5676bf5" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../.idea/leetcode_zh.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../10_regular_expression_matching.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../11_container_with_most_water.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../13_roman_to_integer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../14_longest_common_prefix.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../15_three_number_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../16_nearest_three_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../17_letter_combinations_of_a_phone_number.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../18_four_sum.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../19_remove_Nth_node_from_end_of_linked_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../20_valid_parenthese.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../21_merge_two_sorted_linked_list.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../22_Brute_Force.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../23_merge_k_Sorted_lists.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../24_swap_nodes_in_pairs.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../25_reverse_nodes_in_k-group.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../26_remove_duplicates_from_sorted_array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../27_remove_element.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../28_implement_strStr.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../29_devide_two_integers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../2_add_two_numbers.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../30_substring_with_concatenation_of_all_words.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../31_next_pemutation.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../32_longest_valid_parenthese.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../33_serach_in_rotated_sorted_array.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../34_find_first_and-last_position.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../35_search_insert_position.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../36_valid_Sudoku.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../37_sudku_solver.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../38_count_and_say.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../39_.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../3_Longest_substring_without_repeating_characters.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../40_组合总和2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../41_缺失的第一个正数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../42_接雨水.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../43_multiply_strings.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../44_wildcard_matching.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../46_全排列.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../47_permutations_II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../48_rotate_image.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../49_group_anagrams.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../4_median_of_sorted_arrays.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../50_pow(x,n).py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../51_N_queens.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../52_solveNQueens_2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../53_maximun_subarray.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../54_spiral_matirx.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../55_jump_Game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../56_merge_intervals.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../57_insert_interval.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../58_lenght_of_last_word.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../59_Spiral_matrix_II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../60_permutation_sequence.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../61_rotateRight.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../62_unique_path.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../63_unique_path_!!.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../6_ZigZag_Conversion.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../7_reverse_integer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../8_字符串转换整数.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../add_white_space.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../jump game II.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../part_test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../temp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../webqa_test.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../wildmatching.js" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="182" />
+    <option name="y" value="50" />
+    <option name="width" value="1176" />
+    <option name="height" value="780" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe855912-04bc-49f1-914a-60efc5676bf5" name="Default Changelist" comment="" />
+      <created>1545902220479</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1545902220479</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-6" y="-6" width="1513" height="973" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.093432635" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Python Console" order="10" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+</project>
