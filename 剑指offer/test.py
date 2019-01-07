@@ -121,4 +121,6 @@ print(sys.getsizeof([1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,9,1,2,3,4,5,6,7,8,9]))#28
 print([i for _ in range(1,3) for i in range(1,10)])
 print(sys.getsizeof([i for _ in range(1,4) for i in range(1,10)]))#344
 print(sys.getsizeof([i for _ in range(1,5) for i in range(1,10)]))#434
-print(sys.getsizeof([i for _ in range(1,100000) for i in range(1,10)]))#
+#print(sys.getsizeof([i for _ in range(1,100000) for i in range(1,10)]))#
+a="12qwYu"
+print(a.upper())
