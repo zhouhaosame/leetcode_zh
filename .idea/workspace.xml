@@ -2,153 +2,82 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c4346860-00d8-4dd7-85cd-70ccc45c740c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/zhouhao.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tags/229_majority_element_II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tags/300_longest_increasing_subsquence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tags/695_max_area_of_island.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tags/768_max_chunks_to_make_sorted_II.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tags/769_max_chunks_to_make_sorted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tags/863_length_of_longest_fibonaci_subsequence.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tags/918_maximum_sum_circular_subarray.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指offer/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指offer/find_repeat_char_3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指offer/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指offer/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指offer/test_find_repeat.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指offer/test_test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指offer/传参还是传地址？.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指offer/关于星号和zip函数的用法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/剑指offer/找寻数组中第一个不重复的数字.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode_zh.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode_zh.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10_regular_expression_matching.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/11_container_with_most_water.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13_roman_to_integer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/14_longest_common_prefix.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/15_three_number_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/16_nearest_three_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/17_letter_combinations_of_a_phone_number.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/18_four_sum.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/19_remove_Nth_node_from_end_of_linked_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/20_valid_parenthese.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/21_merge_two_sorted_linked_list.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/22_Brute_Force.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/23_merge_k_Sorted_lists.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/24_swap_nodes_in_pairs.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/25_reverse_nodes_in_k-group.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/26_remove_duplicates_from_sorted_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/27_remove_element.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/28_implement_strStr.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/29_devide_two_integers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/2_add_two_numbers.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/30_substring_with_concatenation_of_all_words.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/31_next_pemutation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/32_longest_valid_parenthese.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/33_serach_in_rotated_sorted_array.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/34_find_first_and-last_position.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/35_search_insert_position.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/36_valid_Sudoku.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/37_sudku_solver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/38_count_and_say.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/39_.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/3_Longest_substring_without_repeating_characters.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/40_组合总和2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/41_缺失的第一个正数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/42_接雨水.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/43_multiply_strings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/44_wildcard_matching.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/46_全排列.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/47_permutations_II.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/48_rotate_image.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/49_group_anagrams.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/4_median_of_sorted_arrays.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/50_pow(x,n).py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/51_N_queens.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/52_solveNQueens_2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/53_maximun_subarray.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/54_spiral_matirx.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/55_jump_Game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/56_merge_intervals.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/57_insert_interval.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/58_lenght_of_last_word.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/59_Spiral_matrix_II.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/60_permutation_sequence.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/61_rotateRight.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/62_unique_path.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/63_unique_path_!!.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/6_ZigZag_Conversion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/7_reverse_integer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/8_字符串转换整数.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/add_white_space.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/jump game II.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/part_test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/temp.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/webqa_test.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/wildmatching.js" beforeDir="false" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/webResources.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/剑指offer/find_char_in_matrix_4.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/剑指offer/listnode.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/剑指offer/replace_space_5.py" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/剑指offer/test_listNode.py" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode_zh.iml" afterPath="$PROJECT_DIR$/.idea/leetcode_zh.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/leetcode_zh$50_pow_x_n_.coverage" NAME="50_pow(x,n) Coverage Results" MODIFIED="1545124757921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$2_add_two_numbers.coverage" NAME="2_add_two_numbers Coverage Results" MODIFIED="1543302764060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$27_remove_element.coverage" NAME="27_remove_element Coverage Results" MODIFIED="1543989590190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$44_wildcard_matching.coverage" NAME="44_wildcard_matching Coverage Results" MODIFIED="1544952782546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$6_ZigZag_Conversion.coverage" NAME="6_ZigZag_Conversion Coverage Results" MODIFIED="1543393191753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$13_roman_to_integer.coverage" NAME="13_roman_to_integer Coverage Results" MODIFIED="1543548284497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$63_unique_path___.coverage" NAME="63_unique_path_!! Coverage Results" MODIFIED="1545364030219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$48_rotate_image.coverage" NAME="48_rotate_image Coverage Results" MODIFIED="1545111592777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$8_.coverage" NAME="8_字符串转换整数 Coverage Results" MODIFIED="1543408223357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$36_valid_Sudoku.coverage" NAME="36_valid_Sudoku Coverage Results" MODIFIED="1544596199880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$47_permutations_II.coverage" NAME="47_permutations_II Coverage Results" MODIFIED="1545034524946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$10_regular_expression_matching.coverage" NAME="10_regular_expression_matching Coverage Results" MODIFIED="1545139912072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$20_valid_parenthese.coverage" NAME="20_valid_parenthese Coverage Results" MODIFIED="1543737413556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$62_unique_path.coverage" NAME="62_unique_path Coverage Results" MODIFIED="1545361596645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$14_longest_common_prefix.coverage" NAME="14_longest_common_prefix Coverage Results" MODIFIED="1543566901010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_zh$55_jump_Game.coverage" NAME="55_jump_Game Coverage Results" MODIFIED="1545208126894" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_zh$15_three_number_sum.coverage" NAME="15_three_number_sum Coverage Results" MODIFIED="1543649039558" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$35_search_insert_position.coverage" NAME="35_search_insert_position Coverage Results" MODIFIED="1544147296328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$61_rotateRight.coverage" NAME="61_rotateRight Coverage Results" MODIFIED="1545357105458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$18_four_sum.coverage" NAME="18_four_sum Coverage Results" MODIFIED="1543676960957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$34_find_first_and_last_position.coverage" NAME="34_find_first_and-last_position Coverage Results" MODIFIED="1544145660698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$26_remove_duplicates_from_sorted_array.coverage" NAME="26_remove_duplicates_from_sorted_array Coverage Results" MODIFIED="1543988171006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$33_serach_in_rotated_sorted_array.coverage" NAME="33_serach_in_rotated_sorted_array Coverage Results" MODIFIED="1544096921180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$jump_game_II.coverage" NAME="jump game II Coverage Results" MODIFIED="1545025077336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_zh$53_maximun_subarray.coverage" NAME="53_maximun_subarray Coverage Results" MODIFIED="1545196114912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$46_.coverage" NAME="46_全排列 Coverage Results" MODIFIED="1545031383430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$25_reverse_nodes_in_k_group.coverage" NAME="25_reverse_nodes_in_k-group Coverage Results" MODIFIED="1543981494010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$23_merge_k_Sorted_lists.coverage" NAME="23_merge_k_Sorted_lists Coverage Results" MODIFIED="1543928880337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$32_longest_valid_parenthese.coverage" NAME="32_longest_valid_parenthese Coverage Results" MODIFIED="1544085994449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$56_merge_intervals.coverage" NAME="56_merge_intervals Coverage Results" MODIFIED="1545288238081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$49_group_anagrams.coverage" NAME="49_group_anagrams Coverage Results" MODIFIED="1545116564964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$11_container_with_most_water.coverage" NAME="11_container_with_most_water Coverage Results" MODIFIED="1543501329389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$58_lenght_of_last_word.coverage" NAME="58_lenght_of_last_word Coverage Results" MODIFIED="1545290332182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$62_unique_path.coverage" NAME="62_unique_path Coverage Results" MODIFIED="1545361596645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$3_Longest_substring_without_repeating_characters.coverage" NAME="3_Longest_substring_without_repeating_characters Coverage Results" MODIFIED="1543308719767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$4_median_of_sorted_arrays.coverage" NAME="4_median_of_sorted_arrays Coverage Results" MODIFIED="1543395783149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$17_letter_combinations_of_a_phone_number.coverage" NAME="17_letter_combinations_of_a_phone_number Coverage Results" MODIFIED="1543670597267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$54_spiral_matirx.coverage" NAME="54_spiral_matirx Coverage Results" MODIFIED="1545205942841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$22_Brute_Force.coverage" NAME="22_Brute_Force Coverage Results" MODIFIED="1543908746398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$add_white_space.coverage" NAME="add_white_space Coverage Results" MODIFIED="1544713200195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$14_longest_common_prefix.coverage" NAME="14_longest_common_prefix Coverage Results" MODIFIED="1543566901010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$60_permutation_sequence.coverage" NAME="60_permutation_sequence Coverage Results" MODIFIED="1545317028682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$52_solveNQueens_2.coverage" NAME="52_solveNQueens_2 Coverage Results" MODIFIED="1545189814601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$20_valid_parenthese.coverage" NAME="20_valid_parenthese Coverage Results" MODIFIED="1543737413556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_zh$57_insert_interval.coverage" NAME="57_insert_interval Coverage Results" MODIFIED="1545288443467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$16_nearest_three_sum.coverage" NAME="16_nearest_three_sum Coverage Results" MODIFIED="1543655809320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$28_implement_strStr.coverage" NAME="28_implement_strStr Coverage Results" MODIFIED="1543991619025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$test.coverage" NAME="test Coverage Results" MODIFIED="1545623249559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$21_merge_two_sorted_linked_list.coverage" NAME="21_merge_two_sorted_linked_list Coverage Results" MODIFIED="1543741803908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/leetcode_zh$7_reverse_integer.coverage" NAME="7_reverse_integer Coverage Results" MODIFIED="1543401995116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$30_substring_with_concatenation_of_all_words.coverage" NAME="30_substring_with_concatenation_of_all_words Coverage Results" MODIFIED="1544065193191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$51_N_queens.coverage" NAME="51_N_queens Coverage Results" MODIFIED="1545189343006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$29_devide_two_integers.coverage" NAME="29_devide_two_integers Coverage Results" MODIFIED="1543993700308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$part_test.coverage" NAME="part_test Coverage Results" MODIFIED="1544760714471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/leetcode_zh$31_next_pemutation.coverage" NAME="31_next_pemutation Coverage Results" MODIFIED="1544077204224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$Nosetests_for_test_listNode_TestListNode.coverage" NAME="Nosetests for test_listNode.TestListNode Coverage Results" MODIFIED="1546828336616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
     <SUITE FILE_PATH="coverage/leetcode_zh$59_Spiral_matrix_II.coverage" NAME="59_Spiral_matrix_II Coverage Results" MODIFIED="1545310298355" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$28_implement_strStr.coverage" NAME="28_implement_strStr Coverage Results" MODIFIED="1543991619025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$6_ZigZag_Conversion.coverage" NAME="6_ZigZag_Conversion Coverage Results" MODIFIED="1543393191753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$29_devide_two_integers.coverage" NAME="29_devide_two_integers Coverage Results" MODIFIED="1543993700308" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$31_next_pemutation.coverage" NAME="31_next_pemutation Coverage Results" MODIFIED="1544077204224" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$26_remove_duplicates_from_sorted_array.coverage" NAME="26_remove_duplicates_from_sorted_array Coverage Results" MODIFIED="1543988171006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$22_Brute_Force.coverage" NAME="22_Brute_Force Coverage Results" MODIFIED="1543908746398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$part_test.coverage" NAME="part_test Coverage Results" MODIFIED="1544760714471" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$50_pow_x_n_.coverage" NAME="50_pow(x,n) Coverage Results" MODIFIED="1545124757921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$47_permutations_II.coverage" NAME="47_permutations_II Coverage Results" MODIFIED="1545034524946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$10_regular_expression_matching.coverage" NAME="10_regular_expression_matching Coverage Results" MODIFIED="1545139912072" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$30_substring_with_concatenation_of_all_words.coverage" NAME="30_substring_with_concatenation_of_all_words Coverage Results" MODIFIED="1544065193191" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$58_lenght_of_last_word.coverage" NAME="58_lenght_of_last_word Coverage Results" MODIFIED="1545290332182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$17_letter_combinations_of_a_phone_number.coverage" NAME="17_letter_combinations_of_a_phone_number Coverage Results" MODIFIED="1543670597267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$32_longest_valid_parenthese.coverage" NAME="32_longest_valid_parenthese Coverage Results" MODIFIED="1544085994449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$52_solveNQueens_2.coverage" NAME="52_solveNQueens_2 Coverage Results" MODIFIED="1545189814601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$23_merge_k_Sorted_lists.coverage" NAME="23_merge_k_Sorted_lists Coverage Results" MODIFIED="1543928880337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$21_merge_two_sorted_linked_list.coverage" NAME="21_merge_two_sorted_linked_list Coverage Results" MODIFIED="1543741803908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$add_white_space.coverage" NAME="add_white_space Coverage Results" MODIFIED="1544713200195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$13_roman_to_integer.coverage" NAME="13_roman_to_integer Coverage Results" MODIFIED="1543548284497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$Nosetests_for_test_listNode_TestListNode_test_listnode.coverage" NAME="Nosetests for test_listNode.TestListNode.test_listnode Coverage Results" MODIFIED="1546828754939" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$36_valid_Sudoku.coverage" NAME="36_valid_Sudoku Coverage Results" MODIFIED="1544596199880" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$4_median_of_sorted_arrays.coverage" NAME="4_median_of_sorted_arrays Coverage Results" MODIFIED="1543395783149" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$2_add_two_numbers.coverage" NAME="2_add_two_numbers Coverage Results" MODIFIED="1543302764060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$48_rotate_image.coverage" NAME="48_rotate_image Coverage Results" MODIFIED="1545111592777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$16_nearest_three_sum.coverage" NAME="16_nearest_three_sum Coverage Results" MODIFIED="1543655809320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$25_reverse_nodes_in_k_group.coverage" NAME="25_reverse_nodes_in_k-group Coverage Results" MODIFIED="1543981494010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$11_container_with_most_water.coverage" NAME="11_container_with_most_water Coverage Results" MODIFIED="1543501329389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$Nosetests_in_test_find_repeat_py.coverage" NAME="Nosetests in test_find_repeat.py Coverage Results" MODIFIED="1546827758827" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$56_merge_intervals.coverage" NAME="56_merge_intervals Coverage Results" MODIFIED="1545288238081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$test.coverage" NAME="test Coverage Results" MODIFIED="1545623249559" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$51_N_queens.coverage" NAME="51_N_queens Coverage Results" MODIFIED="1545189343006" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$35_search_insert_position.coverage" NAME="35_search_insert_position Coverage Results" MODIFIED="1544147296328" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$33_serach_in_rotated_sorted_array.coverage" NAME="33_serach_in_rotated_sorted_array Coverage Results" MODIFIED="1544096921180" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$replace_space_5.coverage" NAME="replace_space_5 Coverage Results" MODIFIED="1546830609514" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$27_remove_element.coverage" NAME="27_remove_element Coverage Results" MODIFIED="1543989590190" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$8_.coverage" NAME="8_字符串转换整数 Coverage Results" MODIFIED="1543408223357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$34_find_first_and_last_position.coverage" NAME="34_find_first_and-last_position Coverage Results" MODIFIED="1544145660698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$46_.coverage" NAME="46_全排列 Coverage Results" MODIFIED="1545031383430" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$60_permutation_sequence.coverage" NAME="60_permutation_sequence Coverage Results" MODIFIED="1545317028682" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$44_wildcard_matching.coverage" NAME="44_wildcard_matching Coverage Results" MODIFIED="1544952782546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$61_rotateRight.coverage" NAME="61_rotateRight Coverage Results" MODIFIED="1545357105458" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$54_spiral_matirx.coverage" NAME="54_spiral_matirx Coverage Results" MODIFIED="1545205942841" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$find_char_in_matrix_4.coverage" NAME="find_char_in_matrix_4 Coverage Results" MODIFIED="1546605756111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$Nosetests_in_test_listNode_py.coverage" NAME="Nosetests in test_listNode.py Coverage Results" MODIFIED="1546828469732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/剑指offer" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$18_four_sum.coverage" NAME="18_four_sum Coverage Results" MODIFIED="1543676960957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$jump_game_II.coverage" NAME="jump game II Coverage Results" MODIFIED="1545025077336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$49_group_anagrams.coverage" NAME="49_group_anagrams Coverage Results" MODIFIED="1545116564964" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$3_Longest_substring_without_repeating_characters.coverage" NAME="3_Longest_substring_without_repeating_characters Coverage Results" MODIFIED="1543308719767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/leetcode_zh$63_unique_path___.coverage" NAME="63_unique_path_!! Coverage Results" MODIFIED="1545364030219" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -166,47 +95,80 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="918_maximum_sum_circular_subarray.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/tags/918_maximum_sum_circular_subarray.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1890">
-              <caret line="63" column="7" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
+            <state relative-caret-position="0">
+              <caret line="63" column="7" lean-forward="false" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指offer/test.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="416">
-              <caret line="123" column="45" selection-start-line="123" selection-start-column="45" selection-end-line="123" selection-end-column="45" />
+            <state relative-caret-position="3540">
+              <caret line="123" column="45" lean-forward="false" selection-start-line="123" selection-start-column="45" selection-end-line="123" selection-end-column="45" />
               <folding>
-                <element signature="e#17#126#0" />
-                <element signature="e#49#74#0" />
-                <element signature="e#106#126#0" />
-                <element signature="e#1624#1665#0" />
+                <element signature="e#17#126#0" expanded="false" />
+                <element signature="e#49#74#0" expanded="false" />
+                <element signature="e#106#126#0" expanded="false" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file leaf-file-name="find_repeat_char_3.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指offer/find_repeat_char_3.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="428">
-              <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+            <state relative-caret-position="1590">
+              <caret line="53" column="20" lean-forward="false" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file leaf-file-name="test_find_repeat.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/剑指offer/test_find_repeat.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+            <state relative-caret-position="660">
+              <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
               <folding>
                 <element signature="e#0#29#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="find_char_in_matrix_4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/剑指offer/find_char_in_matrix_4.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="35" column="38" lean-forward="false" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test_listNode.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/剑指offer/test_listNode.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="262">
+              <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+              <folding>
+                <element signature="e#0#29#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="replace_space_5.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/剑指offer/replace_space_5.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -264,10 +226,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/webqa_test.json" />
-        <option value="$PROJECT_DIR$/part_test.py" />
-        <option value="$PROJECT_DIR$/add_white_space.py" />
-        <option value="$PROJECT_DIR$/temp.py" />
         <option value="$PROJECT_DIR$/wildmatching.js" />
         <option value="$PROJECT_DIR$/44_wildcard_matching.py" />
         <option value="$PROJECT_DIR$/jump game II.py" />
@@ -315,6 +273,10 @@
         <option value="$PROJECT_DIR$/剑指offer/test.py" />
         <option value="$PROJECT_DIR$/剑指offer/test_find_repeat.py" />
         <option value="$PROJECT_DIR$/剑指offer/find_repeat_char_3.py" />
+        <option value="$PROJECT_DIR$/剑指offer/find_char_in_matrix_4.py" />
+        <option value="$PROJECT_DIR$/剑指offer/test_listNode.py" />
+        <option value="$PROJECT_DIR$/剑指offer/listnode.py" />
+        <option value="$PROJECT_DIR$/剑指offer/replace_space_5.py" />
       </list>
     </option>
   </component>
@@ -324,17 +286,26 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="50" />
-    <option name="y" value="170" />
-    <option name="width" value="2432" />
-    <option name="height" value="1480" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="536" />
+    <option name="width" value="1289" />
+    <option name="height" value="1100" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
-    <navigator proportions="" version="1">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
@@ -348,16 +319,6 @@
             <path>
               <item name="leetcode_zh" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode_zh" type="462c0819:PsiDirectoryNode" />
-              <item name="1-60" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_zh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_zh" type="462c0819:PsiDirectoryNode" />
-              <item name="tags" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="leetcode_zh" type="b2602c69:ProjectViewProjectNode" />
-              <item name="leetcode_zh" type="462c0819:PsiDirectoryNode" />
               <item name="剑指offer" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -365,6 +326,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -372,7 +334,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="PyConsoleConfigurable.Python Console" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -400,28 +362,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Nosetests for test_find_repeat.TestFind_repeat.test_find_first_unique_char">
-    <configuration name="传参还是传地址？" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode_zh" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/剑指offer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/传参还是传地址？.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.replace_space_5">
     <configuration name="找寻数组中第一个不重复的数字" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_zh" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -443,8 +384,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="find_repeat_char_3" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode_zh" />
+    <configuration name="replace_space_5" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
@@ -455,88 +395,97 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/find_repeat_char_3.py" />
+      <module name="leetcode_zh" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/replace_space_5.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
     </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="leetcode_zh" />
+    <configuration name="Nosetests for test_listNode.TestListNode" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
+      <envs />
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/剑指offer" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/test.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="关于星号和zip函数的用法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="leetcode_zh" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/剑指offer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/剑指offer/关于星号和zip函数的用法.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Nosetests for test_find_repeat.TestFind_repeat.test_find_first_unique_char" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
-      <module name="leetcode_zh" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/剑指offer" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="_new_regexPattern" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;test_find_repeat.TestFind_repeat.test_find_first_unique_char&quot;" />
+      <option name="_new_target" value="&quot;test_listNode.TestListNode&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="Python.传参还是传地址？" />
-      <item itemvalue="Python.关于星号和zip函数的用法" />
-      <item itemvalue="Python.test" />
-      <item itemvalue="Python tests.Nosetests for test_find_repeat.TestFind_repeat.test_find_first_unique_char" />
-      <item itemvalue="Python.find_repeat_char_3" />
+    <configuration name="Nosetests for test_listNode.TestListNode.test_listnode" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/剑指offer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode_zh" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_listNode.TestListNode.test_listnode&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+    </configuration>
+    <configuration name="Nosetests in test_find_repeat.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/剑指offer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode_zh" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/剑指offer/test_find_repeat.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <configuration name="Nosetests in test_listNode.py" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/剑指offer" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="leetcode_zh" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/剑指offer/test_listNode.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.replace_space_5" />
+      <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests for test_listNode.TestListNode" />
+      <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests in test_listNode.py" />
+      <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests in test_find_repeat.py" />
+      <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests for test_listNode.TestListNode.test_listnode" />
     </list>
     <recent_temporary>
-      <list>
-        <item itemvalue="Python tests.Nosetests for test_find_repeat.TestFind_repeat.test_find_first_unique_char" />
-        <item itemvalue="Python.find_repeat_char_3" />
-        <item itemvalue="Python.test" />
-        <item itemvalue="Python.关于星号和zip函数的用法" />
-        <item itemvalue="Python.传参还是传地址？" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.replace_space_5" />
+        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests for test_listNode.TestListNode.test_listnode" />
+        <item index="2" class="java.lang.String" itemvalue="Python tests.Nosetests in test_listNode.py" />
+        <item index="3" class="java.lang.String" itemvalue="Python tests.Nosetests for test_listNode.TestListNode" />
+        <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests in test_find_repeat.py" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -552,88 +501,91 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Nosetests_in_test2_py - 2019.01.02 at 20h 05m 29s.xml">
-      <configuration name="Nosetests in test2.py" configurationId="tests" />
+    <history-entry file="Nosetests_for_test_listNode_TestListNode - 2019.01.07 at 10h 24m 06s.xml">
+      <configuration name="Nosetests for test_listNode.TestListNode" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_test2_py - 2019.01.02 at 20h 05m 45s.xml">
-      <configuration name="Nosetests in test2.py" configurationId="tests" />
+    <history-entry file="Nosetests_for_test_listNode_TestListNode - 2019.01.07 at 10h 24m 54s.xml">
+      <configuration name="Nosetests for test_listNode.TestListNode" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_in_传参还是传地址？_py - 2019.01.02 at 20h 06m 30s.xml">
-      <configuration name="Nosetests in 传参还是传地址？.py" configurationId="tests" />
+    <history-entry file="Nosetests_for_test_listNode_TestListNode - 2019.01.07 at 10h 32m 17s.xml">
+      <configuration name="Nosetests for test_listNode.TestListNode" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_for_test_find_repeat_TestFind_repeat_test_find_first_unique_char - 2019.01.04 at 15h 50m 04s.xml">
-      <configuration name="Nosetests for test_find_repeat.TestFind_repeat.test_find_first_unique_char" configurationId="tests" />
+    <history-entry file="Nosetests_for_test_listNode_TestListNode_test_listnode - 2019.01.07 at 10h 33m 27s.xml">
+      <configuration name="Nosetests for test_listNode.TestListNode.test_listnode" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_for_test_find_repeat_TestFind_repeat_test_find_first_unique_char - 2019.01.04 at 15h 50m 30s.xml">
-      <configuration name="Nosetests for test_find_repeat.TestFind_repeat.test_find_first_unique_char" configurationId="tests" />
+    <history-entry file="Nosetests_for_test_listNode_TestListNode_test_listnode - 2019.01.07 at 10h 37m 32s.xml">
+      <configuration name="Nosetests for test_listNode.TestListNode.test_listnode" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_for_test_find_repeat_TestFind_repeat_test_find_first_unique_char - 2019.01.04 at 15h 52m 32s.xml">
-      <configuration name="Nosetests for test_find_repeat.TestFind_repeat.test_find_first_unique_char" configurationId="tests" />
+    <history-entry file="Nosetests_for_test_listNode_TestListNode_test_listnode - 2019.01.07 at 10h 37m 46s.xml">
+      <configuration name="Nosetests for test_listNode.TestListNode.test_listnode" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_for_test_find_repeat_TestFind_repeat_test_find_first_unique_char - 2019.01.04 at 15h 52m 45s.xml">
-      <configuration name="Nosetests for test_find_repeat.TestFind_repeat.test_find_first_unique_char" configurationId="tests" />
+    <history-entry file="Nosetests_for_test_listNode_TestListNode_test_listnode - 2019.01.07 at 10h 38m 27s.xml">
+      <configuration name="Nosetests for test_listNode.TestListNode.test_listnode" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_for_test_find_repeat_TestFind_repeat_test_find_first_unique_char - 2019.01.04 at 17h 19m 20s.xml">
-      <configuration name="Nosetests for test_find_repeat.TestFind_repeat.test_find_first_unique_char" configurationId="tests" />
+    <history-entry file="Nosetests_for_test_listNode_TestListNode_test_listnode - 2019.01.07 at 10h 39m 15s.xml">
+      <configuration name="Nosetests for test_listNode.TestListNode.test_listnode" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_for_test_find_repeat_TestFind_repeat_test_find_first_unique_char - 2019.01.04 at 17h 25m 57s.xml">
-      <configuration name="Nosetests for test_find_repeat.TestFind_repeat.test_find_first_unique_char" configurationId="tests" />
+    <history-entry file="Nosetests_in_test_listNode_py - 2019.01.07 at 10h 22m 47s.xml">
+      <configuration name="Nosetests in test_listNode.py" configurationId="tests" />
     </history-entry>
-    <history-entry file="Nosetests_for_test_find_repeat_TestFind_repeat_test_find_first_unique_char - 2019.01.04 at 17h 25m 58s.xml">
-      <configuration name="Nosetests for test_find_repeat.TestFind_repeat.test_find_first_unique_char" configurationId="tests" />
+    <history-entry file="Nosetests_in_test_listNode_py - 2019.01.07 at 10h 34m 30s.xml">
+      <configuration name="Nosetests in test_listNode.py" configurationId="tests" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1513" height="1013" extended-state="6" />
+    <frame x="536" y="0" width="1289" height="1100" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20176032" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32840723" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3356009" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39229023" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.32967034" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" weight="0.329148" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20016274" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.329148" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3920751" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32840723" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28340808" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2948718" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3919414" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="SciView" order="3" />
-      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2948718" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.28340808" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3919414" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -678,14 +630,16 @@
           <line>49</line>
           <option name="timeStamp" value="11" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/剑指offer/find_char_in_matrix_4.py</url>
+          <line>11</line>
+        </line-breakpoint>
       </breakpoints>
+      <option name="time" value="2" />
     </breakpoint-manager>
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/add_white_space.py" />
-    <entry file="file://$PROJECT_DIR$/temp.py" />
-    <entry file="file://$PROJECT_DIR$/wildmatching.js" />
-    <entry file="file://$PROJECT_DIR$/23_merge_k_Sorted_lists.py" />
     <entry file="file://$PROJECT_DIR$/47_permutations_II.py" />
     <entry file="file://$PROJECT_DIR$/48_rotate_image.py" />
     <entry file="file://$PROJECT_DIR$/49_group_anagrams.py" />
@@ -712,14 +666,14 @@
     <entry file="file://$PROJECT_DIR$/tags/863_length_of_longest_fibonaci_subsequence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1050">
-          <caret line="35" column="4" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
+          <caret line="35" column="4" lean-forward="false" selection-start-line="35" selection-start-column="4" selection-end-line="35" selection-end-column="4" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tags/229_majority_element_II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="327">
-          <caret line="50" selection-start-line="50" selection-end-line="56" selection-end-column="14" />
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="56" selection-end-column="14" />
         </state>
       </provider>
     </entry>
@@ -733,14 +687,14 @@
     <entry file="file://$PROJECT_DIR$/tags/769_max_chunks_to_make_sorted.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-146">
-          <caret line="20" column="28" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
+          <caret line="20" column="28" lean-forward="false" selection-start-line="20" selection-start-column="28" selection-end-line="20" selection-end-column="28" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1-60/53_maximun_subarray.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="477">
-          <caret line="43" column="10" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="10" />
+          <caret line="43" column="10" lean-forward="false" selection-start-line="43" selection-start-column="7" selection-end-line="43" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -748,10 +702,7 @@
     <entry file="file://$PROJECT_DIR$/1-60/test.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
-          <caret line="216" column="7" selection-start-line="216" selection-start-column="7" selection-end-line="216" selection-end-column="7" />
-          <folding>
-            <element signature="e#0#12#0" expanded="true" />
-          </folding>
+          <caret line="216" column="7" lean-forward="false" selection-start-line="216" selection-start-column="7" selection-end-line="216" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -759,7 +710,7 @@
     <entry file="file://$PROJECT_DIR$/剑指offer/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="1" column="8" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <caret line="1" column="8" lean-forward="false" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
         </state>
       </provider>
     </entry>
@@ -767,41 +718,29 @@
     <entry file="file://$PROJECT_DIR$/剑指offer/test_test1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#29#0" expanded="true" />
-          </folding>
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/tags/300_longest_increasing_subsquence.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="188">
-          <caret line="30" column="65" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
+          <caret line="30" column="65" lean-forward="false" selection-start-line="30" selection-start-column="65" selection-end-line="30" selection-end-column="65" />
         </state>
       </provider>
     </entry>
-    <entry file="file://D:/Anaconda3/Lib/collections/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="529" selection-start-line="529" selection-end-line="529" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://D:/Anaconda3/Lib/collections/__init__.py" />
     <entry file="file://$PROJECT_DIR$/tags/768_max_chunks_to_make_sorted_II.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
+          <caret line="21" column="0" lean-forward="false" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指offer/test2.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
-          <caret line="3" lean-forward="true" selection-end-line="23" selection-end-column="16" />
-          <folding>
-            <element signature="e#0#20#0" expanded="true" />
-          </folding>
+          <caret line="3" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="16" />
         </state>
       </provider>
     </entry>
@@ -815,21 +754,21 @@
     <entry file="file://$PROJECT_DIR$/tags/venv/Lib/site-packages/pip-10.0.1-py3.5.egg/pip/_vendor/distlib/compat.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="173">
-          <caret line="822" column="12" selection-start-line="822" selection-start-column="12" selection-end-line="822" selection-end-column="12" />
+          <caret line="822" column="12" lean-forward="false" selection-start-line="822" selection-start-column="12" selection-end-line="822" selection-end-column="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1-60/48_rotate_image.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="1" column="18" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="18" />
+          <caret line="1" column="18" lean-forward="false" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指offer/关于星号和zip函数的用法.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="99">
-          <caret line="55" selection-start-line="55" selection-end-line="55" selection-end-column="44" />
+          <caret line="55" column="0" lean-forward="false" selection-start-line="55" selection-start-column="0" selection-end-line="55" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -842,38 +781,73 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/tags/918_maximum_sum_circular_subarray.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1890">
-          <caret line="63" column="7" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
+        <state relative-caret-position="0">
+          <caret line="63" column="7" lean-forward="false" selection-start-line="63" selection-start-column="7" selection-end-line="63" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指offer/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="416">
-          <caret line="123" column="45" selection-start-line="123" selection-start-column="45" selection-end-line="123" selection-end-column="45" />
+        <state relative-caret-position="3540">
+          <caret line="123" column="45" lean-forward="false" selection-start-line="123" selection-start-column="45" selection-end-line="123" selection-end-column="45" />
           <folding>
-            <element signature="e#17#126#0" />
-            <element signature="e#49#74#0" />
-            <element signature="e#106#126#0" />
-            <element signature="e#1624#1665#0" />
+            <element signature="e#17#126#0" expanded="false" />
+            <element signature="e#49#74#0" expanded="false" />
+            <element signature="e#106#126#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指offer/find_repeat_char_3.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="428">
-          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+        <state relative-caret-position="1590">
+          <caret line="53" column="20" lean-forward="false" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/find_char_in_matrix_4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="35" column="38" lean-forward="false" selection-start-line="35" selection-start-column="38" selection-end-line="35" selection-end-column="38" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/剑指offer/test_find_repeat.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
+        <state relative-caret-position="660">
+          <caret line="22" column="24" lean-forward="false" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
           <folding>
             <element signature="e#0#29#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/listnode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="377">
+          <caret line="54" column="0" lean-forward="true" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/test_listNode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="12" column="38" lean-forward="false" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+          <folding>
+            <element signature="e#0#29#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/剑指offer/replace_space_5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="28" lean-forward="true" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
