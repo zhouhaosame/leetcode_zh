@@ -124,3 +124,8 @@ print(sys.getsizeof([i for _ in range(1,5) for i in range(1,10)]))#434
 #print(sys.getsizeof([i for _ in range(1,100000) for i in range(1,10)]))#
 a="12qwYu"
 print(a.upper())
+a=b=[]
+a.append("3")
+print(b)#结果是["3"],显然这不是我们所希望的
+root=[1,2] and [2]
+print(root)
