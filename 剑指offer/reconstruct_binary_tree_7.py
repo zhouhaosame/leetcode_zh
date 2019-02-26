@@ -3,7 +3,7 @@ from binary_tree import preorder_not_recurse
 from binary_tree import inorder_not_recurse
 from binary_tree import postorder_not_recurse
 
-
+"""使用这种方式的话，节点中肯定是不能有重复的值的。要不然根本就index没用"""
 def reconsruct_binary_according_pre_in(preorder, inorder):
     """这里面preorder是表示的先序序列，inorder表示的是中序序列
     一般来说，和树有关的题目大部分都可以使用递归
@@ -56,6 +56,10 @@ def reconstruct_binary_tree_according_post_in(postorder, inorder):
 
 
 nums1 = [1, 2, 4, 7, 5, 8, 3, 6, 9]
+"""如果先序和中序的顺序是错误的，怎么解决这个问题？？
+一般这种情况的可能是，按理说，在先序遍历中的某个数作为root，应该在中序中对应的某个片段能够找到，如果
+出错的话， 其实就是对应找不到那个index。这种情况下，只能够通过执行 os.eixt()函数将程序直接终止，使用
+return是没有用的。"""
 nums2 = [7, 4, 2, 8, 5, 1, 6, 9, 3]
 nums3 = [7, 4, 8, 5, 2, 9, 6, 3, 1]
 root = reconsruct_binary_according_pre_in(nums1, nums2)

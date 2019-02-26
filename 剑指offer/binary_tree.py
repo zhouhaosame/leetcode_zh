@@ -127,7 +127,7 @@ def stringToTreeNode(inputValues):
         item = inputValues[index]
         index = index + 1
         """很明显，每一个树中的节点都有左右两个节点"""
-        if item:
+        if item!=None:
             leftNumber = int(item)
             node.left = binary_tree(leftNumber)
             nodeQueue.append(node.left)
@@ -135,7 +135,7 @@ def stringToTreeNode(inputValues):
             break
         item = inputValues[index]
         index = index + 1
-        if item:
+        if item!=None:
             rightNumber = int(item)
             node.right = binary_tree(rightNumber)
             nodeQueue.append(node.right)
@@ -164,7 +164,7 @@ def levelorder_fenceng(root):
         else:
             newnums.append([levelnums[index][0]])
     return newnums
-#这是按照每层返回的层序遍历，用i来表示每层的元素
+#这是按照每层返回的层序遍历，用i来表示每层的元素\
 if __name__=="__main__":
     nums=[1,2,3,4,5,6,7,8,9,10]
     prenums,innums,postnums=[],[],[]
@@ -181,7 +181,6 @@ if __name__=="__main__":
     postnums=inorder_not_recurse(root)
     print(postnums)
     print(levelorder_fenceng(root))
-
 
 
 
