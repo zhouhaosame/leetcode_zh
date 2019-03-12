@@ -1,37 +1,49 @@
-def find_path_in_matrix(matrix, path):
-    if not matrix:
-        return False
-    row, col,ans = len(matrix), len(matrix[0]),[]
-    def dfs(res, i, j, visited, k):
-        """其中，res表示已经走过的某条路径，i,j表示要检查的当前的格子，visited是一个集合，存储所有的已经访问过的位置，
-        k表示将要匹配的路径的位置
-        注意点，path是路径中的一些点，并不一定就是相邻的点。
-        我们是找蕴含这条路径的长路径，所以path的最后一个点是长路径的结尾。
-        一共有三个注意点一定要注意"""
-        if not (0<=i<row and 0<=j<col):
-            return
-        if matrix[i][j] == path[k]:
-            if k == len(path)-1:
-                res.append(matrix[i][j])
-                ans.append(res)
-                """1、原来这里用的是return res，只想返回一条。
-                其实这样是错误的，因为这一个返回只是结束了一条路径。
-                也就是说，出现res一定要跟着ans"""
-            else:
-                for (a, b) in [(a, b) for (a, b) in [(i, j+1), (i, j-1), (i-1, j ), (i+1, j)] if
-                               0 <= a < row and 0 <= b < col and (a, b) not in visited]:
-                    dfs(res + [matrix[i][j]], a, b, visited | set([(i, j)]), k + 1)#集合的并集
-                    """2、这里的res是[],所以matrix外面一定要加上[]"""
-        else:
-            for (a, b) in [(a, b) for (a, b) in [(i, j+1), (i, j-1), (i-1, j ), (i+1, j)] if
-                           0 <= a < row and 0 <= b < col and (a, b) not in visited]:
-                dfs(res+ [matrix[i][j]], a, b, visited | set([(i, j)]), k)
-                """这里的res也要加上一个matrix，因为path是长路径的一个subsequence"""
-    dfs([],0,0,set(),0)#这里是从左上角作为起点，当然也可以从任意的作为起点
-    return ans
-matrix=[['a','b','t','g'],['c','f','c','s'],['j','d','e','h']]
-matrix=[['a','a','b','c']]
-path='bfce'
-#path='abfb'
-path='abc'
-print(find_path_in_matrix(matrix,path))
+# -*- coding:utf-8 -*-
+class Solution:
+    def hasPath(self,matrix, rows, cols, path):
+        # write code here
+        #matrix=numpy.array([x for x in matrix]).reshape(rows,cols)
+        """字符串path在找的字符串中是连续、有序存在的"""
+        if not matrix or rows <= 0 or cols <= 0:
+            return 0
+        if not path:
+            return 1
+        #temp_col,temp_matrix=1,[[matrix[0]]]
+        #for item in matrix[1:]:
+        #    if temp_col<cols:
+        #        temp_matrix[-1].append(item)
+        #        temp_col+=1
+        #    else:
+        #        temp_matrix.append([item])
+        #        temp_col=1
+        #matrix=temp_matrix
+        """可以先将matrix字符串转换成二维数组，或者直接将要检查的行列，转换成matrix的索引"""
+        find_flag= [0]
+        def find_path(i, j, visited, x):#x之前的已经被连续的匹配了
+            index_1=i*cols+j#index_1从0开始
+            # if x==len(path):
+            #     find_flag[0] = 1
+            #     return
+            """这里一定不能写成这样的。比如matrix='aaaaaaaaaaaa'三行四列，path=‘aaaaaaaaaaaa'。这样的话
+            当最后一个比较之后，x是无法到下一个的。所以要在比较是否相同的同时就判断是否是最后一个"""
+            if matrix[index_1]==path[x]:
+                if x==len(path)-1:
+                    find_flag[0]=1
+                else:
+                    for (a, b) in [(m, n) for (m, n) in [(i + 1, j), (i - 1, j), (i, j + 1), (i, j - 1)] if \
+                                   m < rows and m >= 0 and n < cols and n >= 0 and (m, n) not in visited]:
+                        if not find_flag[0]:
+                            find_path(a, b, visited|set([(i,j)]), x + 1)
+        for row in range(0,rows):
+            for col in range(0,cols):
+                if not find_flag[0] and matrix[row*cols+col]==path[0]:
+                    find_path(row, col, set(), 0)
+        return find_flag[0]
+
+"""上述的是字符串path在找的字符串中是连续、有序存在的，如果不是连续的，但是有序的，那么也是好找的。
+！！！！！！难点来了，如果是既不是连续的，也不是有序的呢。。这样的话都不要使用回溯。只要从头到尾吧matrix穿起来
+，然后就是最完整的路径了，看这个路径和path的重合度。也就是说直接统计matrix里面的数量就好啦！！！"""
+matrix='aaaaaaaaaaaa'
+path='aaaaaaaaaaaa'
+test=Solution()
+print(test.hasPath(matrix,3,4,path))

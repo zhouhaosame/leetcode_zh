@@ -74,3 +74,4 @@ print(test.EntryNodeOfLoop(phead.next))
 #print(identify_enter(phead))
 """测试过了，边界结果都是对的"""
 
+
