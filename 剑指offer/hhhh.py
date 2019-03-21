@@ -1,32 +1,22 @@
-def f(root):
-    if not root:
-        return root
-    stack,ans=[root],[]
-    while(root.left):
-        stack.append(root.left)
-        root=root.left
-    while(stack):
-        node=stack.pop()
-        ans.append(node.val)
-        if node.right:
-            node=node.right
-            stack.append(node)
-            while(node.left):
-                stack.append(node.left)
-                node = node.left
-    return ans
-from binary_tree import stringToTreeNode as bi
-nums=[1,2,3,4,5,6]
-root=bi(nums)
-print(f(root))
-from binary_tree import binary_tree
-def middle_tree(Root):
-    stack = []
-    while(Root or stack):
-        while(Root):
-            stack.append(Root)
-            Root = Root.left
-        Root= stack.pop(0)
-        print(Root.val)
-        Root = Root.right
-print(middle_tree(root))
+class Solution:
+    def isMatch(self, s: str, p: str) -> bool:
+        dp = [[0] * (len(s) + 1) for _ in range(len(p) + 1)]
+        dp[0][0] = 1
+        # for i in range(1, len(dp)):
+        #     if p[i - 1] == "*":
+        #         dp[i][0] = 1
+        #     else:
+        #         break
+        for j in range(len(dp)):
+            for i in range(len(dp[0])):
+                if p[j - 1] in [s[i - 1], "."]:
+                    dp[j][i] = dp[j - 1][i - 1]
+                elif p[j - 1] == "*":
+                    dp[j][i] = j - 2 >= 0 and dp[j - 2][i] or dp[j - 1][i] or (dp[j - 1][i - 1] or dp[j][i - 1]) and (
+                                i - 2 >= 0 and s[i - 2] == s[i - 1] or j - 2 >= 0 and p[j - 2] == ".")
+        return bool(dp[-1][-1])
+test1=Solution()
+print(test1.isMatch("a","c*a"))
+
+
+
