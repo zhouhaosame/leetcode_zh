@@ -35,7 +35,18 @@ def test_2(n,k):
         result=result+n_list[i]
         n_list.pop(i)
         k=j
-
+import math
+def permutation_k(n,k):
+    #这种是19年4月10号做的，很明显这是一个递归思想啊
+    ans=[str(i) for i in range(1,n+1)]
+    def f(m,temp):#这个函数的含义是在temp中的从小到大排列的所有组合中，找到第k个
+        if m==0:
+            return "".join(temp)
+        else:
+            number=math.factorial(len(temp)-1)
+            return temp[m//number]+f(m%number,temp[0:m//number]+temp[m//number+1:])
+    return f(k,ans)
+print(permutation_k(8,7))
 n=2
 k=2
 #getPermutation(n,k)
